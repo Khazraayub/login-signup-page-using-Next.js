@@ -4,7 +4,7 @@ import Typewriter from 'typewriter-effect'
 
 const Home = () => {
   return (
-    <div className="text-8xl flex justify-center pt-44">
+    <div className="text-8xl flex justify-center pt-44 text-black">
         <Typewriter
         options={{
             strings: ['Hello World!!!!!!'],
